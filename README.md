@@ -7,7 +7,7 @@
 - :thought_balloon: How to reach me: [yz3940@columbia.edu] 
 
 
-- :paperclip: [My Resume/CV]()
+- :paperclip: [My Resume/CV](https://github.com/yz3940/Yijiao-Zuo/blob/2c506b37e97d465b6ce1e5951036da6fa08195ef/Yijiao%20Zuo_Resume_new.docx)
 - :email: yz3940@columbia.edu
 
 <h3 align="left">Skills:</h3>
