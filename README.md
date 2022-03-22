@@ -7,14 +7,13 @@
 - :thought_balloon: How to reach me: [yz3940@columbia.edu] 
 
 
+- :paperclip: [My Resume/CV]()
+- :email: yz3940@columbia.edu
+
+<h3 align="left">Skills:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
 :mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Yijiao-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Mail Badge](https://img.shields.io/badge/-@yyyiiii_z-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com) [![Mail Badge](https://img.shields.io/badge/-Yijiao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yz3940@columbia.edu)
 
-skills:
-
-SQL,  <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-Python, R, 
-
-- :paperclip: [My Resume/CV]()
-- :email: yz3940@columbia.edu
