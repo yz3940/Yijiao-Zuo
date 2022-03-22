@@ -3,6 +3,7 @@
 - :innocent: I'm currently master student in Columbia University, Quantitative Methods in Social Science
 - :grimacing: I'm passionate to data analysis!
 - :nerd_face: I previously interned in Meituan(the largest Chinese delivery App) and KPMG!
-- 
-- :fried_egg: I love cooking and I'm video creator on Xiaohongshu 
+- :fried_egg: Fun Fact: I love cooking and I'm video creator on Xiaohongshu 
 - :thought_balloon: How to reach me: [yz3940@columbia.edu] 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Yijiao-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Mail Badge](https://img.shields.io/badge/-@yyyiiii_z-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com) [![Mail Badge](https://img.shields.io/badge/-Yijiao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yz3940@columbia.edu)
