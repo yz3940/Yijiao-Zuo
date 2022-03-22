@@ -6,4 +6,12 @@
 - :fried_egg: Fun Fact: I love cooking and I'm video creator on Xiaohongshu 
 - :thought_balloon: How to reach me: [yz3940@columbia.edu] 
 
+
+:mailbox: Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Yijiao-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) [![Mail Badge](https://img.shields.io/badge/-@yyyiiii_z-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com) [![Mail Badge](https://img.shields.io/badge/-Yijiao-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yz3940@columbia.edu)
+
+
+
+
+- :paperclip: [My Resume/CV]()
+- :email: yz3940@columbia.edu
